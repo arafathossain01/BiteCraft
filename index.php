@@ -10,6 +10,7 @@
     <title>BiteCraft</title>
     <link rel="shortcut icon" href="./image/hero.png" type="image/x-icon">
     <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/navigation.css">
     <!-- Google icon -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=shopping_cart" />
 </head>
