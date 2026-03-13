@@ -12,6 +12,70 @@
     <!-- header -->
     <?php include '../includes/navigation.php'; ?>
 
+    <!-- menu container -->
+     <div>
+       <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+       <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+       <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+       <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+       <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+       <div>
+       <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+       </div>
+     </div>
+
 </body>
 
 </html>
