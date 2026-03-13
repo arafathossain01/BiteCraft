@@ -9,7 +9,7 @@
         <ul class="navigation">
             <li><a href="../index.php">Home</a></li>
             <li><a href="../index.php#about">About</a></li>
-            <li><a href="menu/menu.php">Menu</a></li>
+            <li><a href="../menu/menu.php">Menu</a></li>
             <li><a href="#">Send Feedback</a></li>
             <li><a href="#">Reviews</a></li>
             <li><a href="../index.php#contact">Contact</a></li>
